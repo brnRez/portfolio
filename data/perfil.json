@@ -1,7 +1,7 @@
 {
     "name":"Bruno Maciel",
-    "job":"Fullstack Developer",
-    "description": "Back-End focused Full-Stack Developer passionate about building secure and efficient solutions for the Fintech industry. Highly adaptable and driven to solve complex technical challenges across any business domain.",
+    "job":"Desenvolvedor Fullstack",
+    "description": "Desenvolvedor Fullstack com maior experiência em Back-end, focando em escrever soluções eficientes e seguras para a área de finanças. Possuo fácil adaptação e flexibilidade para solucionar desafios em qualquer área de negócios.",
     "location":"São Paulo - Brazil",
     "email":"maciel2bruno@gmail.com",
     "skills":[
@@ -19,8 +19,8 @@
         }
     ],
     "languages":[
-        "Portuguese",
-        "English"
+        "Português - BR",
+        "Inglês"
     ],
     "portfolio":[
         {
