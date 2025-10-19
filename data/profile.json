@@ -6,16 +6,36 @@
     "email":"maciel2bruno@gmail.com",
     "skills":[
         {
-        "name":"",
-        "logo":""
+        "name":"Java",
+        "logo":"fa-brands fa-java"
         },
         {
-        "name":"",
-        "logo":""
+        "name":"Python",
+        "logo":"fa-brands fa-python"
         },
         {
-        "name":"",
-        "logo":""
+        "name":"Node.js",
+        "logo":"fa-brands fa-node-js"
+        },
+        {
+        "name":"Docker",
+        "logo":"fa-brands fa-docker"
+        },
+        {
+        "name":"Javascript",
+        "logo":"fa-brands fa-js"
+        },
+        {
+        "name":"HTML",
+        "logo":"fa-brands fa-html5"
+        },
+        {
+        "name":"CSS",
+        "logo":"fa-brands fa-css"
+        },
+        {
+        "name":"Git",
+        "logo":"fa-brands fa-square-git"
         }
     ],
     "languages":[
