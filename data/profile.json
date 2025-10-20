@@ -42,7 +42,7 @@
         "Portuguese",
         "English"
     ],
-    "portfolio":[
+    "projects":[
         {
             "name":"Url Shortener API",
             "url":"https://github.com/brnRez/notashortener",
