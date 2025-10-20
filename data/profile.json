@@ -44,15 +44,15 @@
     ],
     "portfolio":[
         {
-            "name":"",
-            "url":"",
-            "description":"",
+            "name":"Url Shortener API",
+            "url":"https://github.com/brnRez/notashortener",
+            "description":"Back-end RESTful API for shortening URLs, built with Java and Spring Boot.",
             "github": true
         },
         {
-            "name":"",
+            "name":"Work In Progress",
             "url":"",
-            "description":"",
+            "description":"More projects coming soon!",
             "github": true
         }
     ]
